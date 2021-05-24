@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RandaRiad
-- 👀 I’m interested in Desktop and Android Apps by JavaEE, JavaSE, JavaFX, XMl, CSS, JavaScript, HTML, Sql Server and MySql.
+- 👀 I’m interested in Desktop and Android Apps by JavaEE, JavaSE, JavaFX, XMl, CSS, JavaScript, HTML, Sql Server, FireBase and MySql.
 - 🌱 I’m currently learning new Technologies to improve my Skils.
 - 📫 How to reach me by Email: Eng.randaRiad@yahoo.com or MyPhone Number : 201-208-7341
 
